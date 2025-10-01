@@ -28,6 +28,6 @@ Durant cette série, j’ai appris à :
 - Modifier des fichiers, faire des commits et push  
 - Ajouter des images en ligne et locales dans un README.md  
 - Utiliser VSCode et GitHub Desktop pour gérer mes projets  
-- Documenter un projet lié à un réseau de neurones PINN appliqué aux équations d’ondes  
+
 
 **Temps passé : 1,3 h**
