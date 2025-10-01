@@ -18,7 +18,8 @@ Ce TP me permettra de renforcer mes compétences en versionning, en workflow col
 
 ## Image locale
 Voici un exemple d’image générée localement (par exemple une simulation de propagation d’ondes) :  
-![Résultat PINN](images/pinn-ondes.png)
+![Résultat PINN](images/PINN-Resultat.PNG)
+
 
 ## Résumé de l’apprentissage
 Durant cette série, j’ai appris à :  
