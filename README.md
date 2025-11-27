@@ -1,8 +1,6 @@
 # Introduction
-Ce dépôt est créé pour apprendre en pratique les bases de Git et GitHub.  
-Je découvre ces outils et souhaite comprendre comment les utiliser dans mes projets de Master.  
+Ce dépôt est créé pour apprendre en pratique les bases de Git et GitHub.   
 Dans ce projet, j’ai implémenté un **réseau de neurones PINN (Physics-Informed Neural Network)** appliqué aux équations d’ondes.  
-J’ai hâte d’apprendre à mieux organiser mon code, collaborer efficacement, et suivre l’historique de mes analyses.
 
 ## Image depuis Internet
 Voici une illustration d'un réseau PINN :   
@@ -10,7 +8,6 @@ Voici une illustration d'un réseau PINN :
 
 
 ## Présentation personnelle
-Je m'appelle Alexandre et je suis étudiant en Master.  
 Je développe un projet autour des réseaux de neurones PINN pour modéliser les phénomènes d’ondes.  
 Je souhaite apprendre Python, R et Git pour améliorer la reproductibilité de mes analyses et simulations.  
 Je suis motivé à comprendre comment gérer efficacement mes projets et collaborer avec d'autres.  
